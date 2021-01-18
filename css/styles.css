@@ -6,6 +6,7 @@
     text-align: right;
     color: #fffafa;
     word-spacing: 20px;
+    font-family: 'Bowlby One';
 }
 
 nav {
@@ -50,15 +51,21 @@ p {
 
 footer {
     background-color: #000000;
-    padding: 70px 0;
-    text-align: center;
+    display: inline-block;
+    vertical-align: top
+    }
+
+footer h1 {
+  font-family: 'Bowlby One';
+  color: #fffafa;
 }
 
-footer ul {
-    display: inline-block;
-    vertical-align: top;
-    padding: 70px 0;
-    text-align: center;
+footer .inline-block {
+  font-family: 'Andika';
+  word-spacing: 20px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
 }
 
 #button {
