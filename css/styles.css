@@ -1,6 +1,11 @@
 .inline-block {
     display: inline-block;
     vertical-align: top;
+    background-color: #000000;
+    font-size: 24px;
+    text-align: right;
+    color: #fffafa;
+    word-spacing: 20px;
 }
 
 nav {
@@ -18,12 +23,40 @@ ul {
     padding: 25px;
 }
 
+img {
+    float: right;
+}
+
 .content {
     width: 500px;
     margin: 0 auto;
 }
 
+h1 {
+    font-size: 48px;
+    font-family: 'Bowlby One' cursive;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Andika' sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Andika' sans-serif;
+}
+
 footer {
     background-color: #151515;
-    
+    padding: 70px 0;
+    text-align: center;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 70px 0;
+    text-align: center;
 }
