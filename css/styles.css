@@ -49,7 +49,7 @@ p {
 }
 
 footer {
-    background-color: #151515;
+    background-color: #000000;
     padding: 70px 0;
     text-align: center;
 }
@@ -60,3 +60,20 @@ footer ul {
     padding: 70px 0;
     text-align: center;
 }
+
+#button {
+    background-color: black;
+    color: #fffafa;
+    border: none;
+    padding: 15px 15px;
+    text-align: center;
+    font-family: 'Bowlby One' cursive;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    top: 130px;
+    left: 32px;
+  }
