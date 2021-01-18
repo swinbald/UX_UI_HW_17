@@ -52,24 +52,48 @@ p {
     font-family: 'Andika';
 }
 
-footer {
-    background-color: #000000;
-    display: inline-block;
-    vertical-align: top
-    }
 
-footer h1 {
+
+
+.email {
+    font-family: 'Andika';
+    font-size: 20px;
+    color: #fffafa;
+    vertical-align: baseline;
+    display: inline-block;
+}
+
+.ig {
+    font-family: 'Andika';
+    font-size: 20px;
+    color: #fffafa;
+    vertical-align: baseline;
+    display: inline-block;
+}
+
+.linkedin {
+    font-family: 'Andika';
+    font-size: 20px;
+    color: #fffafa;
+    vertical-align: baseline;
+    display: inline-block;
+}
+
+.resume {
+    font-family: 'Andika';
+    font-size: 20px;
+    color: #fffafa;
+    vertical-align: baseline;
+    display: inline-block;
+}
+
+
+.connect {
   font-family: 'Bowlby One';
   color: #fffafa;
+  font-size: 48px;
 }
 
-footer .inline-block {
-  font-family: 'Andika';
-  word-spacing: 20px;
-  display: inline-block;
-  vertical-align: top;
-  text-align: right;
-}
 
 #button {
     background-color: black;
