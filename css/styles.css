@@ -10,7 +10,7 @@
 }
 
 nav {
-    width: 73%;
+    width: 100%;
     padding: 1%;
 }
 
@@ -26,6 +26,9 @@ ul {
 
 img {
     float: right;
+    height: 594px;
+    width: 475px;
+    align-items: right;
 }
 
 .content {
@@ -35,18 +38,18 @@ img {
 
 h1 {
     font-size: 48px;
-    font-family: 'Bowlby One' cursive;
+    font-family: 'Bowlby One';
     font-weight: bold;
 }
 
 h2 {
     font-size: 36px;
-    font-family: 'Andika' sans-serif;
+    font-family: 'Andika';
 }
 
 p {
     font-size: 20px;
-    font-family: 'Andika' sans-serif;
+    font-family: 'Andika';
 }
 
 footer {
@@ -74,7 +77,7 @@ footer .inline-block {
     border: none;
     padding: 15px 15px;
     text-align: center;
-    font-family: 'Bowlby One' cursive;
+    font-family: 'Bowlby One';
     text-decoration: none;
     display: inline-block;
     font-size: 14px;
