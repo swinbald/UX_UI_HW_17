@@ -17,7 +17,7 @@ nav {
 }
 
 ul {
-    width: 50%;
+    width: 100%;
     margin-left: auto;
 }
 
@@ -56,35 +56,36 @@ p {
     background-position-x: 126;
 }
 
-footer {
-    background-color: black;
-    
-   
-}  
-
 ul {
-    vertical-align: top;
-    display: inline-block;
-}
-
-.footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: black;
-  }
-  
-  .a {
-    color: #fafafa;
-    font-family: 'Andika';
-    display: inline-block;
-    font-size: 20px;
-    horizontal-align: top;
     
   }
   
   .connect {
     color: #fafafa;
     font-family: 'Bowlby One';
-    font-size: 48px;
+    text-align: center;
     display: inline-block;
+    padding: 14px 16px;
+  }
+  
+  footer li {
+    
+    float: right;
+    border-right: 2px solid #fffafa;
+  }
+  
+  li a {
+    color: #fafafa;
+    font-family: 'Andika';
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    
   }
   
 
