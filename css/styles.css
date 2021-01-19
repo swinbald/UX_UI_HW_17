@@ -8,6 +8,7 @@
     word-spacing: 20px;
     font-family: 'Bowlby One';
     margin-right: 24px;
+
     
 }
 
@@ -97,7 +98,6 @@ ul {
 #button {
     background-color: black;
     color: #fffafa;
-    border: none;
     padding: 15px 15px;
     text-align: center;
     font-family: 'Bowlby One';
@@ -106,5 +106,8 @@ ul {
     font-size: 14px;
     margin: 4px 2px;
     cursor: pointer;
+    position: sticky;
+}
+
+  
    
-  }
