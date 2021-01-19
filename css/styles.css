@@ -56,47 +56,38 @@ p {
     background-position-x: 126;
 }
 
+footer {
+    background-color: black;
+    
+   
+}  
 
-.email {
-    font-family: 'Andika';
-    font-size: 20px;
-    color: #fffafa;
-    vertical-align: text-bottom;
+ul {
+    vertical-align: top;
     display: inline-block;
 }
 
-.ig {
+.footer {
+    background-color: black;
+  }
+  
+  .a {
+    color: #fafafa;
     font-family: 'Andika';
-    font-size: 20px;
-    color: #fffafa;
-    vertical-align: text-bottom;
     display: inline-block;
-}
-
-.linkedin {
-    font-family: 'Andika';
     font-size: 20px;
-    color: #fffafa;
-    vertical-align: text-bottom;
+    horizontal-align: top;
+    
+  }
+  
+  .connect {
+    color: #fafafa;
+    font-family: 'Bowlby One';
+    font-size: 48px;
     display: inline-block;
-}
+  }
+  
 
-.resume {
-    font-family: 'Andika';
-    font-size: 20px;
-    color: #fffafa;
-    vertical-align: text-bottom;
-    display: inline-block;
-}
-
-
-.connect {
-  font-family: 'Bowlby One';
-  color: #fffafa;
-  font-size: 48px;
-  vertical-align: text-bottom;
-  display: inline-block;
-}
 
 
 #button {
@@ -111,7 +102,5 @@ p {
     font-size: 14px;
     margin: 4px 2px;
     cursor: pointer;
-    position: absolute;
-    background-position-y: 130;
-    background-position-x: 26;
+   
   }
